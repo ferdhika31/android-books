@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My Book (Dicoding Submission)</string>
+    <string name="author_name">Ferdhika Yudira</string>
+    <string name="author_email">rpl4rt08@gmail.com</string>
+    <string name="title">Book Title</string>
+    <string name="description">Book Description</string>
+    <string name="price">Book Price</string>
+    <string name="published_date">Published Date : </string>
+    <string name="total_pages">Total Pages : </string>
+    <string name="author">Author : </string>
+    <string name="lorem_ipsum">Lorem Ipsum</string>
+    <string name="share">Share</string>
+    <string name="book_detail">Book Detail</string>
+    <string name="filter_view_http">Book Detail HTTP</string>
+    <string name="filter_view_book">Book Detail</string>
+</resources>
