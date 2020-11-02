@@ -2,6 +2,11 @@
 Submission - Course membuat aplikasi android untuk pemula
 
 ## Screenshots
+![List data buku](https://github.com/ferdhika31/android-books/blob/master/screenshoot/list-page.jpg?raw=true)
+
+![Detail data buku](https://github.com/ferdhika31/android-books/blob/master/screenshoot/detail-page.jpg?raw=true)
+
+![About](https://github.com/ferdhika31/android-books/blob/master/screenshoot/about-page.jpg?raw=true)
 
 ## Submission Checklists
 - [x] Menampilkan list data buku
